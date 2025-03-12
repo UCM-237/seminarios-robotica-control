@@ -1,5 +1,5 @@
-<img src="/images/LogoUCM.png" width="300" height="275"alt="Logo UCM">
-<img src="/images/LogoRobocity.png" alt="Proyecto Robocity" width="625" height="286">
+<img src="images/LogoUCM.png" width="300" height="275"alt="Logo UCM">
+<img src="images/LogoRobocity.png" alt="Proyecto Robocity" width="625" height="286">
 
 #Control distribuido de formaciones basadas en superficies virtuales
 ##María Guinaldo Losada

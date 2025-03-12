@@ -1,3 +1,23 @@
+<img src="/images/LogoUCM.png" width="300" height="275"alt="Logo UCM">
+<img src="/images/LogoRobocity.png" alt="Proyecto Robocity" width="625" height="286">
+
+#Control distribuido de formaciones basadas en superficies virtuales
+##María Guinaldo Losada
+### Martes 25 de marzo de 2025, 12:00h. Sala de reuniones de DACYA (233 A)
+
+#### Resumen
+El uso de vehículos aéreos no tripulados (UAVs) en defensa está teniendo un interés creciente. Una de las potenciales aplicaciones es la vigilancia y protección de infraestructuras críticas, bajo la hipótesis de un despliegue de un enjambre de drones para la detección de posibles amenazas. Para ello, se propone la definición de la formación deseada en forma de escudo que constituiría una triangulación sobre una superficie virtual en el espacio 3D, y en base a distancias deseadas con los nodos adyacentes.
+
+Se presentarán estrategias para la generación de la formación objetivo, la ley de control para adquirirla, y cómo desplazarla ante objetivos dinámicos. También se estudiarán estrategias para su reconfiguración ante posibles fallos o pérdidas. Finalmente, se presentarán los resultados de validación de dichas estrategias y su integración en una plataforma experimental que combina agentes reales y virtuales.
+
+####María Guinaldo Losada
+**Profesora titular en el Departamento de Informática y Automática de la UNED, Madrid**
+ 
+ Obtuvo el título de Máster en Física y el Grado en Ingeniería Informática por la Universidad de Salamanca, España, en 2007 y 2008, respectivamente. En septiembre de 2008, se incorporó a la UNED, donde realizó su doctorado en "Control en red y basado en eventos de sistemas lineales”, bajo la supervisión del Prof. José Sánchez y el Prof. Sebastián Dormido. En julio de 2013, obtuvo el título de Doctora en Ingeniería Informática por la UNED con la calificación de Cum Laude. En 2015, fue galardonada por el Comité Español de Automática (CEA) y Springer con el premio a la mejor tesis doctoral en Ingeniería de Control.
+
+Es autora de más de 90 publicaciones, incluyendo 37 publicaciones con índice de impacto (JCR), 2 libros y 7 capítulos de libro, y ha participado en 10 proyectos de investigación, liderando 3 de ellos, y ha obtenido 2 sexenios de investigación (2009-2014, 2015-2020). Ha sido investigadora visitante en diversas instituciones internacionales como la EPFL (Lausana, Suiza), el KTH (Estocolmo, Suecia) y el INRIA (Grenoble, Francia). Sus intereses de investigación incluyen el control de sistemas ciberfísicos en red, el control basado en eventos, los sistemas multi-agente y la educación en ingeniería.
+
+
 # Spatial awareness within robot swarms: dispersion formation control.
 ## Héctor García de Marina
 ### Martes 11 de febrero de 2025, 11:00h Sala de reuniones de DACYA (233 A)
